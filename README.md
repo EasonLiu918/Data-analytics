@@ -29,8 +29,6 @@ We examined user activity and purchasing patterns across various dimensions:
 - Pairplot analysis reveals linear relationships and potential predictors.
 
 ## 💡 Key Takeaways
-- Improving **session quality** and reducing early exits boosts purchase probability.
-- OS/browser segmentation suggests room for **UI/UX adaptation**.
 - Tailored strategies for **new vs. returning users** can improve engagement.
 - Pages with high `PageValues` deserve strategic prioritization and content optimization.
 
