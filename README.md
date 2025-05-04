@@ -36,11 +36,5 @@ We examined user activity and purchasing patterns across various dimensions:
 - Reduce friction in **high-exit pages** through A/B testing and UX improvements.
 - Align design/interface with top-performing **OS and browsers**.
 
----
-
-## 📁 Files
-- `ISOM_5160_Project.ipynb`: Full analysis and visualization notebook
-- `README.md`: Project summary and repository overview
-
 ## 👤 Author
 Liu Hai-Sung (Eason)  
