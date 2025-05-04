@@ -11,9 +11,7 @@ This project analyzes the **Online Shoppers Intention Dataset** to uncover key b
 
 ## 🗃 Dataset
 - **Source**: online_shoppers_intention.csv
-- Contains session-level data of user behavior across e-commerce pages
-- Binary target variable: `Revenue` (purchase or not)
-
+  
 ## 🔍 Exploratory Data Analysis
 We examined user activity and purchasing patterns across various dimensions:
 - 📅 **Monthly Trends**: Conversion rates and transaction volume peaked around May and November, aligning with seasonal promotions.
