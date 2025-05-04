@@ -10,7 +10,7 @@ This project analyzes the **Online Shoppers Intention Dataset** to uncover key b
   - `NumPy` for numerical computation
 
 ## 🗃 Dataset
-- **Source**: [UCI Online Shoppers Intention Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)
+- **Source**: online_shoppers_intention.csv
 - Contains session-level data of user behavior across e-commerce pages
 - Binary target variable: `Revenue` (purchase or not)
 
@@ -48,5 +48,3 @@ We examined user activity and purchasing patterns across various dimensions:
 
 ## 👤 Author
 Liu Hai-Sung (Eason)  
-Master’s Student in Information Systems  
-2024–2025
