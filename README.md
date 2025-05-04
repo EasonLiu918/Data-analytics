@@ -8,7 +8,6 @@ This project analyzes the **Online Shoppers Intention Dataset** to uncover key b
   - `Pandas` for data manipulation and cleaning
   - `Matplotlib` & `Seaborn` for visualizations
   - `NumPy` for numerical computation
-  - `Scikit-learn` for preprocessing utilities
 
 ## 🗃 Dataset
 - **Source**: [UCI Online Shoppers Intention Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)
