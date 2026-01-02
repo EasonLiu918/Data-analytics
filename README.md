@@ -14,10 +14,10 @@ This project analyzes the **Online Shoppers Intention Dataset** to uncover key b
   
 ## Exploratory Data Analysis
 We examined user activity and purchasing patterns across various dimensions:
-- 📅 **Monthly Trends**: Conversion rates and transaction volume peaked around May and November, aligning with seasonal promotions.
-- 🔁 **Visitor Types**: New visitors showed higher conversion rates than returning users.
-- 💻 **Device Usage**: Operating systems and browsers had varying impacts on user behavior and revenue likelihood.
-- 📊 **Session Metrics**: Page values and exit/bounce rates were strong indicators of purchasing behavior.
+- **Monthly Trends**: Conversion rates and transaction volume peaked around May and November, aligning with seasonal promotions.
+- **Visitor Types**: New visitors showed higher conversion rates than returning users.
+- **Device Usage**: Operating systems and browsers had varying impacts on user behavior and revenue likelihood.
+- **Session Metrics**: Page values and exit/bounce rates were strong indicators of purchasing behavior.
 
 ## Correlation Insights
 - Top features positively correlated with `Revenue`:  
@@ -36,5 +36,5 @@ We examined user activity and purchasing patterns across various dimensions:
 - Reduce friction in **high-exit pages** through A/B testing and UX improvements.
 - Align design/interface with top-performing **OS and browsers**.
 
-## 👤 Author
+## Author
 Liu Hai-Sung (Eason)  
